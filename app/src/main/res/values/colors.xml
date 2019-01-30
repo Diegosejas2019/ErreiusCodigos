@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorWhite">#FFF</color>
+    <color name="spnHome">#d6cfcf</color>
+    <color name="grey">#b9b7b7</color>
+    <color name="celeste">#5ed6fd</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="erreius">#bf0d3e</color>
+</resources>

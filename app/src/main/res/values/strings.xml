@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Erreius</string>
+    <string name="app_name_launcher">Erreius Códigos 2018</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">E-mail</string>
+    <string name="titulo">Ingreso</string>
+    <string name="Powered">Powered by Erreius</string>
+    <string name="recupearPass">Olvidó la contraseña?</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="usuario">Usuario : Diego Sejas</string>
+    <string name="action_sign_in">Ingresar</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">Correo invalido</string>
+    <string name="error_invalid_password">La contraseña es demasiado corta</string>
+    <string name="error_incorrect_password">La contraseña es incorrecta</string>
+    <string name="error_field_required">Campo requerido</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_password">Recuperar Password</string>
+    <string name="title_activity_home">Home</string>
+
+    <string name="title_activity_splash_screen">SplashScreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="facebook_app_id">130863474395603</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>
